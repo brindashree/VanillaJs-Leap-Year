@@ -37,21 +37,25 @@ img {
   margin: auto;
   font-family: "Fredoka One", cursive;
   border-radius: 0.3rem;
+  border-style: solid;
+  font-size: 1.3rem;
+  border-color: #8b78e6;
   /* margin-top: 3rem;
   margin-bottom: 1rem; */
 }
 #userinput {
   width: 300px;
-  height: 30px;
-  font-size: 1.4rem;
+  height: 40px;
+  font-size: 1.2rem;
   margin: 1rem 1rem;
   border-radius: 0.3rem;
+  font-family: "Fredoka One", cursive;
 }
 
 footer {
   background-color: #8b78e6;
-  padding: 0.2rem 0.2rem;
-  margin-top: 110px;
+  padding: 0.1rem 0.2rem;
+  margin-top: 90px;
   bottom: 0;
   border-top-left-radius: 0.5rem;
   border-top-right-radius: 0.5rem;
