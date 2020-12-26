@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Fredoka+One&display=swap");
+
+body {
+  max-width: 600px;
+
+  background-color: #151048;
+  margin: auto;
+}
+* {
+  text-align: center;
+}
+h1 {
+  font-family: "Bangers", cursive;
+  color: #05c7c3;
+  letter-spacing: 2px;
+}
+img {
+  width: 300px;
+  height: 250px;
+}
+#btn {
+  display: block;
+  margin: auto;
+  font-size: 1.2rem;
+  background-color: #f5c160;
+  font-family: "Fredoka One", cursive;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  width: 100px;
+}
+#output {
+  width: 250px;
+  height: 30px;
+  background-color: #bdeff2;
+  padding: 2rem 2rem 2rem 2rem;
+  display: block;
+  margin: auto;
+  font-family: "Fredoka One", cursive;
+  border-radius: 0.3rem;
+  /* margin-top: 3rem;
+  margin-bottom: 1rem; */
+}
+#userinput {
+  width: 300px;
+  height: 30px;
+  font-size: 1.4rem;
+  margin: 1rem 1rem;
+  border-radius: 0.3rem;
+}
+
+footer {
+  background-color: #8b78e6;
+  padding: 0.2rem 0.2rem;
+  margin-top: 110px;
+  bottom: 0;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+  height: 2.5rem;
+}
